@@ -1,9 +1,8 @@
-<?php
-
-$tet = 5;
-$tet = 5;
-$tet = 5;
-$tet = 5;
-
-echo phpinfo(); 
-
+<html>
+    <head>
+        <title>Energy Team Podgorica</title>
+    </head>
+    <body>
+        Test
+    </body>
+</html>
